@@ -18,9 +18,9 @@
 
 > Toolbar
 
-https://itstudy-mary.tistory.com/184
-https://itstudy-mary.tistory.com/m/186?category=931222
+https://itstudy-mary.tistory.com/184 <br>
+https://itstudy-mary.tistory.com/m/186?category=931222 <br>
 
 > Navigation
 
-https://www.youtube.com/watch?v=p4Np2ks6bW4&list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm&index=11
+https://www.youtube.com/watch?v=p4Np2ks6bW4&list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm&index=11 <br>
