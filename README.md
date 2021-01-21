@@ -7,7 +7,7 @@
 
 <div>
 <img src="https://user-images.githubusercontent.com/48644958/105358887-154a9500-5c3a-11eb-9c21-f94f7342b734.jpg" height="20%" width="20%"></img>
-</div>
+</div><br>
 
 > Navigation
 <div>
