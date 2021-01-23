@@ -6,25 +6,25 @@
 > Toolbar
 
 <div>
-<img src="https://user-images.githubusercontent.com/48644958/105358887-154a9500-5c3a-11eb-9c21-f94f7342b734.jpg" height="30%" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/48644958/105358887-154a9500-5c3a-11eb-9c21-f94f7342b734.jpg" height="25%" width="25%"></img>
 </div><br>
 
 > Navigation
 <div>
-<img src="https://user-images.githubusercontent.com/48644958/105358889-15e32b80-5c3a-11eb-9913-f83a3a975219.jpg" height="30%" width="30%"></img>
-</div>
+<img src="https://user-images.githubusercontent.com/48644958/105358889-15e32b80-5c3a-11eb-9913-f83a3a975219.jpg" height="25%" width="25%"></img>
+</div><br>
 
 > Recyclerview
 <div>
-<img src="https://user-images.githubusercontent.com/48644958/105573505-645f0a00-5da1-11eb-9620-f3605c863b81.jpg" height="30%" width="30%"></img>
-</div>
+<img src="https://user-images.githubusercontent.com/48644958/105573505-645f0a00-5da1-11eb-9620-f3605c863b81.jpg" height="25%" width="25%"></img>
+</div><br>
 
 > Viewpager2 & Recyclerview
 <div>
-<img src="https://user-images.githubusercontent.com/48644958/105607151-9e033580-5de0-11eb-9e67-380bb913923a.jpg" height="30%" width="30%"></img>
-<img src="https://user-images.githubusercontent.com/48644958/105607156-a3608000-5de0-11eb-81e5-69f44cf126b8.jpg" height="30%" width="30%"></img>
-<img src="https://user-images.githubusercontent.com/48644958/105607157-a491ad00-5de0-11eb-8521-3c163c4d41af.jpg" height="30%" width="30%"></img>
-</div>
+<img src="https://user-images.githubusercontent.com/48644958/105607151-9e033580-5de0-11eb-9e67-380bb913923a.jpg" height="25%" width="25%"></img>
+<img src="https://user-images.githubusercontent.com/48644958/105607156-a3608000-5de0-11eb-81e5-69f44cf126b8.jpg" height="25%" width="25%"></img>
+<img src="https://user-images.githubusercontent.com/48644958/105607157-a491ad00-5de0-11eb-8521-3c163c4d41af.jpg" height="25%" width="25%"></img>
+</div><br>
 
 
 ## 도움받은 사이트
