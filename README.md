@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/48644958/105358889-15e32b80-5c3a-11eb-9913-f83a3a975219.jpg" height="20%" width="20%"></img>
 </div>
 
-> Rycyclerview
+> Recyclerview
 <div>
 <img src="https://user-images.githubusercontent.com/48644958/105573505-645f0a00-5da1-11eb-9620-f3605c863b81.jpg" height="20%" width="20%"></img>
 </div>
