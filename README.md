@@ -60,5 +60,11 @@ https://ddangeun.tistory.com/44 <br>
 https://furang-note.tistory.com/26 <br>
 
 
+> Spinner
 
+https://www.youtube.com/watch?v=Ylh4NvkBYP4&list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm&index=21 <br>
+https://black-jin0427.tistory.com/222 <br>
+https://developer.android.com/guide/topics/ui/controls/spinner?hl=ko <br>
+http://dailyddubby.blogspot.com/2018/03/11-spinnercombobox-custom.html <br>
+https://ko.ojit.com/so/java/83816 <br>
 
