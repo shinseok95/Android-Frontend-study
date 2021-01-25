@@ -1,5 +1,5 @@
 # Android template layout
-> 향후 안드로이드 개발에 필요한 레이아웃들의 템플릿을 정리해두는 repository입니다.
+> 향후 안드로이드 개발에 필요한 레이아웃 템플릿을 정리해두는 repository입니다.
 
 ## 스크린샷
 
@@ -24,6 +24,12 @@
 <img src="https://user-images.githubusercontent.com/48644958/105607151-9e033580-5de0-11eb-9e67-380bb913923a.jpg" height="25%" width="25%"></img>
 <img src="https://user-images.githubusercontent.com/48644958/105607156-a3608000-5de0-11eb-81e5-69f44cf126b8.jpg" height="25%" width="25%"></img>
 <img src="https://user-images.githubusercontent.com/48644958/105607157-a491ad00-5de0-11eb-8521-3c163c4d41af.jpg" height="25%" width="25%"></img>
+</div><br>
+
+> Spinner
+<div>
+<img src="https://user-images.githubusercontent.com/48644958/105723942-b0a97600-5f6a-11eb-96dd-9ecac8738176.jpg" height="25%" width="25%"></img>
+<img src="https://user-images.githubusercontent.com/48644958/105723950-b1daa300-5f6a-11eb-94c1-1ef73f54e25f.jpg" height="25%" width="25%"></img>
 </div><br>
 
 
