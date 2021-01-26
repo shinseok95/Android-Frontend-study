@@ -1,5 +1,5 @@
 # Android template layout
-> 향후 안드로이드 개발에 필요한 레이아웃 템플릿을 정리해두는 repository입니다.
+> 향후 안드로이드 개발에 필요한 레이아웃 템플릿을 정리해두는 repository 입니다.
 
 ## 스크린샷
 
